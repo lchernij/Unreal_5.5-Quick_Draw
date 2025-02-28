@@ -36,3 +36,11 @@ The player controls a Tanokie and the AI ​​controls a frog
 ### Link
 
 [Class at Udemy](https://www.udemy.com/course/unreal-2d-course/learn/lecture/37260336#overview)
+
+
+## License
+
+These assets are distributed under a CC0 License.
+https://creativecommons.org/publicdomain/zero/1.0/
+
+You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
