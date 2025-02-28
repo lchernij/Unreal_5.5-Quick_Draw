@@ -11,7 +11,7 @@ The player controls a Tanokie and the AI ​​controls a frog
 ## Technology
 
 - Unreal 5.5
-- Plugin PaperZD
+- Plugin Paper2D
 
 ## Lessons
 
